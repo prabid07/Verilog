@@ -1,30 +1,30 @@
-Verilog Digital Logic and Computer Architecture Repository
+Verilog Digital Logic and Computer Architecture Repository<br><br>
 
-Overview
+Overview<br>
 
-Welcome to the Verilog Digital Logic and Computer Architecture repository! This project is dedicated to creating a comprehensive collection of Verilog modules for:
-Digital logic circuits
-Microprocessor components
-Computer architecture systems
-Each module is accompanied by a robust test bench to verify its functionality, ensuring high-quality and reliable designs.
+Welcome to the Verilog Digital Logic and Computer Architecture repository! This project is dedicated to creating a comprehensive collection of Verilog modules for:<br>
+Digital logic circuits<br>
+Microprocessor components<br>
+Computer architecture systems<br>
+Each module is accompanied by a robust test bench to verify its functionality, ensuring high-quality and reliable designs.<br>
 
 Features
+<br>
+Digital Logic Circuits: <br>
+Basic gates (AND, OR, XOR, etc.)<br>
+Combinational circuits (Multiplexers, Demultiplexers, Encoders, Decoders)<br>
+Arithmetic circuits (Adders, Subtractors, Multipliers, Dividers)<br>
+Sequential circuits (Flip-flops, Counters, Registers)<br>
 
-Digital Logic Circuits:
-Basic gates (AND, OR, XOR, etc.)
-Combinational circuits (Multiplexers, Demultiplexers, Encoders, Decoders)
-Arithmetic circuits (Adders, Subtractors, Multipliers, Dividers)
-Sequential circuits (Flip-flops, Counters, Registers)
+Microprocessor Components:<br>
+ALU (Arithmetic Logic Unit)<br>
+Control Unit<br>
+Register Files<br>
+Memory Interface<br><br>
 
-Microprocessor Components:
-ALU (Arithmetic Logic Unit)\t
-Control Unit\t
-Register Files\t
-Memory Interface\t
-
-Computer Architecture Systems:
-
-Simple CPUs
-Pipelined Processors
-Cache Systems
-Input/Output Systems
+Computer Architecture Systems:<br>
+<br>
+Simple CPUs<br>
+Pipelined Processors<br>
+Cache Systems<br>
+Input/Output Systems<br>
