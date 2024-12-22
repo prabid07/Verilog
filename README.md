@@ -17,10 +17,10 @@ Arithmetic circuits (Adders, Subtractors, Multipliers, Dividers)
 Sequential circuits (Flip-flops, Counters, Registers)
 
 Microprocessor Components:
-ALU (Arithmetic Logic Unit)
-Control Unit
-Register Files
-Memory Interface
+ALU (Arithmetic Logic Unit)\t
+Control Unit\t
+Register Files\t
+Memory Interface\t
 
 Computer Architecture Systems:
 
